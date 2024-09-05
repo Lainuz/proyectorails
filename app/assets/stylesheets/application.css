@@ -13,3 +13,20 @@
  *= require_tree .
  *= require_self
  */
+
+.card .card-img-top {
+    height: 15rem;
+}
+
+.card .btn-iguana {
+    background-color: red;
+
+}
+
+.card .btn-suri {
+    background-color: greenyellow;
+}
+
+.card .btn-olivia {
+    background-color: orange;
+}
